@@ -1,0 +1,932 @@
+{
+ "kids": [
+  {
+   "cls": "compressor-hero",
+   "kids": [
+    {
+     "cls": "shrink-0 text-center",
+     "kids": [
+      {
+       "cls": "gradient-text mt-2 text-[2rem] font-bold leading-relaxed md:text-[2.35rem] lg:text-[2.55rem]",
+       "kids": [],
+       "tag": "h1",
+       "text": "免费在线视频压缩工具"
+      },
+      {
+       "cls": "vic-desc",
+       "kids": [],
+       "tag": "p",
+       "text": "快速在线压缩，无水印，设置灵活，输出效果高质量。"
+      }
+     ],
+     "tag": "div"
+    },
+    {
+     "cls": "compression-workspace mx-auto flex min-h-0 w-full max-w-5xl flex-1 flex-col",
+     "kids": [
+      {
+       "cls": "workspace-panels grid min-h-0 flex-1 gap-3 rounded-2xl border border-gray-200/80 bg-white p-3 shadow-sm lg:gap-5 lg:p-5",
+       "kids": [
+        {
+         "cls": "video-preview-area relative flex min-h-0 min-w-0 flex-col overflow-hidden rounded-xl bg-slate-50",
+         "kids": [
+          {
+           "cls": "video-upload relative min-h-0 w-full h-full",
+           "kids": [],
+           "tag": "div"
+          }
+         ],
+         "tag": "div"
+        },
+        {
+         "cls": "flex min-h-0 min-w-0 flex-col rounded-xl border border-gray-100 bg-white p-3 shadow-sm lg:p-4",
+         "kids": [
+          {
+           "cls": "flex min-h-0 w-full flex-1 flex-col",
+           "kids": [],
+           "tag": "div"
+          }
+         ],
+         "tag": "div"
+        }
+       ],
+       "tag": "div"
+      }
+     ],
+     "tag": "div"
+    }
+   ],
+   "tag": "div"
+  },
+  {
+   "cls": "bg-[#f8f8f8] relative px-4",
+   "kids": [
+    {
+     "cls": "text-center gradient-text",
+     "kids": [],
+     "tag": "h2",
+     "text": "深受全球团队、创作者与企业信赖"
+    },
+    {
+     "cls": "text-center mt-4 vic-desc",
+     "kids": [],
+     "tag": "p",
+     "text": "用户使用 VideoCompress 来缩小视频体积、简化分享流程，并让日常视频处理更轻松。"
+    },
+    {
+     "cls": "flex gap-10 flex-wrap justify-center md:gap-10 relative h-full w-full mt-10 md:mt-20 pb-10",
+     "kids": [
+      {
+       "cls": "logo-set flex justify-center gap-2 md:gap-10 absolute inset-0",
+       "kids": [
+        {
+         "cls": "logo-item",
+         "kids": [
+          {
+           "cls": "h-6 w-24 md:h-8 md:w-32 lg:h-10 lg:w-40 px-1 md:px-2 object-contain dark:brightness-0 dark:invert",
+           "kids": [],
+           "tag": "img"
+          }
+         ],
+         "tag": "div"
+        },
+        {
+         "cls": "logo-item",
+         "kids": [
+          {
+           "cls": "h-6 w-24 md:h-8 md:w-32 lg:h-10 lg:w-40 px-1 md:px-2 object-contain dark:brightness-0 dark:invert",
+           "kids": [],
+           "tag": "img"
+          }
+         ],
+         "tag": "div"
+        },
+        {
+         "cls": "logo-item",
+         "kids": [
+          {
+           "cls": "h-6 w-24 md:h-8 md:w-32 lg:h-10 lg:w-40 px-1 md:px-2 object-contain dark:brightness-0 dark:invert",
+           "kids": [],
+           "tag": "img"
+          }
+         ],
+         "tag": "div"
+        },
+        {
+         "cls": "logo-item",
+         "kids": [
+          {
+           "cls": "h-6 w-24 md:h-8 md:w-32 lg:h-10 lg:w-40 px-1 md:px-2 object-contain dark:brightness-0 dark:invert",
+           "kids": [],
+           "tag": "img"
+          }
+         ],
+         "tag": "div"
+        }
+       ],
+       "tag": "div"
+      },
+      {
+       "cls": "logo-set flex justify-center gap-2 md:gap-10 absolute inset-0 logo-set-active",
+       "kids": [
+        {
+         "cls": "logo-item",
+         "kids": [
+          {
+           "cls": "h-6 w-24 md:h-8 md:w-32 lg:h-10 lg:w-40 px-1 md:px-2 object-contain dark:brightness-0 dark:invert",
+           "kids": [],
+           "tag": "img"
+          }
+         ],
+         "tag": "div"
+        },
+        {
+         "cls": "logo-item",
+         "kids": [
+          {
+           "cls": "h-6 w-24 md:h-8 md:w-32 lg:h-10 lg:w-40 px-1 md:px-2 object-contain dark:brightness-0 dark:invert",
+           "kids": [],
+           "tag": "img"
+          }
+         ],
+         "tag": "div"
+        },
+        {
+         "cls": "logo-item",
+         "kids": [
+          {
+           "cls": "h-6 w-24 md:h-8 md:w-32 lg:h-10 lg:w-40 px-1 md:px-2 object-contain dark:brightness-0 dark:invert",
+           "kids": [],
+           "tag": "img"
+          }
+         ],
+         "tag": "div"
+        },
+        {
+         "cls": "logo-item",
+         "kids": [
+          {
+           "cls": "h-6 w-24 md:h-8 md:w-32 lg:h-10 lg:w-40 px-1 md:px-2 object-contain dark:brightness-0 dark:invert",
+           "kids": [],
+           "tag": "img"
+          }
+         ],
+         "tag": "div"
+        }
+       ],
+       "tag": "div"
+      }
+     ],
+     "tag": "div"
+    }
+   ],
+   "tag": "section"
+  },
+  {
+   "kids": [
+    {
+     "cls": "container mx-auto px-4 max-w-7xl",
+     "kids": [
+      {
+       "cls": "text-center mb-16",
+       "kids": [
+        {
+         "cls": "gradient-text mb-4",
+         "kids": [],
+         "tag": "h2",
+         "text": "使用高级视频压缩器压缩视频"
+        },
+        {
+         "cls": "vic-desc",
+         "kids": [],
+         "tag": "p",
+         "text": "借助智能视频压缩器高效压缩视频，在尽量保留画质的同时优化文件体积。"
+        }
+       ],
+       "tag": "div"
+      },
+      {
+       "cls": "grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-10 md:gap-6",
+       "kids": [
+        {
+         "cls": "relative bg-gradient-to-b from-neutral-100 to-white dark:from-neutral-900 dark:to-neutral-950 p-6 rounded-3xl overflow-hidden border border-neutral-200 dark:border-neutral-800 hover:shadow-lg transition-shadow duration-3",
+         "kids": [
+          {
+           "cls": "pointer-events-none absolute left-1/2 top-0 -ml-20 -mt-2 h-full w-full",
+           "kids": [],
+           "tag": "div"
+          },
+          {
+           "cls": "relative z-20 mb-4",
+           "kids": [],
+           "tag": "div"
+          },
+          {
+           "cls": "text-base font-bold text-neutral-800 dark:text-white relative z-20 mb-2",
+           "kids": [],
+           "tag": "h3",
+           "text": "灵活的压缩设置"
+          },
+          {
+           "cls": "text-neutral-600 dark:text-neutral-400 text-sm font-normal relative z-20 leading-relaxed",
+           "kids": [],
+           "tag": "p",
+           "text": "无论你是想快速完成压缩，还是希望精细控制输出画质、码率和分辨率，我们的视频压缩器都能让流程既灵活又易用。"
+          }
+         ],
+         "tag": "div"
+        },
+        {
+         "cls": "relative bg-gradient-to-b from-neutral-100 to-white dark:from-neutral-900 dark:to-neutral-950 p-6 rounded-3xl overflow-hidden border border-neutral-200 dark:border-neutral-800 hover:shadow-lg transition-shadow duration-3",
+         "kids": [
+          {
+           "cls": "pointer-events-none absolute left-1/2 top-0 -ml-20 -mt-2 h-full w-full",
+           "kids": [],
+           "tag": "div"
+          },
+          {
+           "cls": "relative z-20 mb-4",
+           "kids": [],
+           "tag": "div"
+          },
+          {
+           "cls": "text-base font-bold text-neutral-800 dark:text-white relative z-20 mb-2",
+           "kids": [],
+           "tag": "h3",
+           "text": "安全的视频处理"
+          },
+          {
+           "cls": "text-neutral-600 dark:text-neutral-400 text-sm font-normal relative z-20 leading-relaxed",
+           "kids": [],
+           "tag": "p",
+           "text": "我们的在线视频压缩器会在上传和处理过程中保护你的文件，帮助你更安全地压缩视频。为保护你的隐私，上传的视频数据会在压缩完成后 24 小时内从我们的服务器自动删除。"
+          }
+         ],
+         "tag": "div"
+        },
+        {
+         "cls": "relative bg-gradient-to-b from-neutral-100 to-white dark:from-neutral-900 dark:to-neutral-950 p-6 rounded-3xl overflow-hidden border border-neutral-200 dark:border-neutral-800 hover:shadow-lg transition-shadow duration-3",
+         "kids": [
+          {
+           "cls": "pointer-events-none absolute left-1/2 top-0 -ml-20 -mt-2 h-full w-full",
+           "kids": [],
+           "tag": "div"
+          },
+          {
+           "cls": "relative z-20 mb-4",
+           "kids": [],
+           "tag": "div"
+          },
+          {
+           "cls": "text-base font-bold text-neutral-800 dark:text-white relative z-20 mb-2",
+           "kids": [],
+           "tag": "h3",
+           "text": "支持 40+ 视频格式"
+          },
+          {
+           "cls": "text-neutral-600 dark:text-neutral-400 text-sm font-normal relative z-20 leading-relaxed",
+           "kids": [],
+           "tag": "p",
+           "text": "支持压缩 40 多种视频格式，包括 MP4、AVI、MKV 等。无论是分享、存储还是加快上传，都能轻松处理几乎所有常见视频文件。"
+          }
+         ],
+         "tag": "div"
+        },
+        {
+         "cls": "relative bg-gradient-to-b from-neutral-100 to-white dark:from-neutral-900 dark:to-neutral-950 p-6 rounded-3xl overflow-hidden border border-neutral-200 dark:border-neutral-800 hover:shadow-lg transition-shadow duration-3",
+         "kids": [
+          {
+           "cls": "pointer-events-none absolute left-1/2 top-0 -ml-20 -mt-2 h-full w-full",
+           "kids": [],
+           "tag": "div"
+          },
+          {
+           "cls": "relative z-20 mb-4",
+           "kids": [],
+           "tag": "div"
+          },
+          {
+           "cls": "text-base font-bold text-neutral-800 dark:text-white relative z-20 mb-2",
+           "kids": [],
+           "tag": "h3",
+           "text": "压缩速度快"
+          },
+          {
+           "cls": "text-neutral-600 dark:text-neutral-400 text-sm font-normal relative z-20 leading-relaxed",
+           "kids": [],
+           "tag": "p",
+           "text": "无需复杂步骤即可在线快速压缩视频。从大文件上传到生成便于分享的小文件，VideoCompress 在保持流程简单高效的同时帮你节省时间。"
+          }
+         ],
+         "tag": "div"
+        },
+        {
+         "cls": "relative bg-gradient-to-b from-neutral-100 to-white dark:from-neutral-900 dark:to-neutral-950 p-6 rounded-3xl overflow-hidden border border-neutral-200 dark:border-neutral-800 hover:shadow-lg transition-shadow duration-3",
+         "kids": [
+          {
+           "cls": "pointer-events-none absolute left-1/2 top-0 -ml-20 -mt-2 h-full w-full",
+           "kids": [],
+           "tag": "div"
+          },
+          {
+           "cls": "relative z-20 mb-4",
+           "kids": [],
+           "tag": "div"
+          },
+          {
+           "cls": "text-base font-bold text-neutral-800 dark:text-white relative z-20 mb-2",
+           "kids": [],
+           "tag": "h3",
+           "text": "人人都能轻松使用"
+          },
+          {
+           "cls": "text-neutral-600 dark:text-neutral-400 text-sm font-normal relative z-20 leading-relaxed",
+           "kids": [],
+           "tag": "p",
+           "text": "通过直观的操作流程，只需几次点击就能完成视频压缩。工具专为速度与易用性而设计，从上传到下载都能获得顺滑体验。"
+          }
+         ],
+         "tag": "div"
+        },
+        {
+         "cls": "relative bg-gradient-to-b from-neutral-100 to-white dark:from-neutral-900 dark:to-neutral-950 p-6 rounded-3xl overflow-hidden border border-neutral-200 dark:border-neutral-800 hover:shadow-lg transition-shadow duration-3",
+         "kids": [
+          {
+           "cls": "pointer-events-none absolute left-1/2 top-0 -ml-20 -mt-2 h-full w-full",
+           "kids": [],
+           "tag": "div"
+          },
+          {
+           "cls": "relative z-20 mb-4",
+           "kids": [],
+           "tag": "div"
+          },
+          {
+           "cls": "text-base font-bold text-neutral-800 dark:text-white relative z-20 mb-2",
+           "kids": [],
+           "tag": "h3",
+           "text": "云端视频压缩"
+          },
+          {
+           "cls": "text-neutral-600 dark:text-neutral-400 text-sm font-normal relative z-20 leading-relaxed",
+           "kids": [],
+           "tag": "p",
+           "text": "基于安全云端处理在线视频，无需下载安装，也不会给设备带来沉重负担。在线视频压缩器让你在浏览器里就能快速把视频变小。"
+          }
+         ],
+         "tag": "div"
+        }
+       ],
+       "tag": "div"
+      }
+     ],
+     "tag": "div"
+    }
+   ],
+   "tag": "section"
+  },
+  {
+   "cls": "mx-auto max-w-[1200px] px-4 sm:px-6 lg:px-8",
+   "kids": [
+    {
+     "cls": "text-center mb-16",
+     "kids": [
+      {
+       "cls": "gradient-text",
+       "kids": [],
+       "tag": "h2",
+       "text": "如何压缩视频文件"
+      },
+      {
+       "cls": "mt-4 max-w-2xl mx-auto vic-desc",
+       "kids": [],
+       "tag": "p",
+       "text": "通过简单的在线流程，只需 3 个步骤即可把大视频压缩成更小文件。"
+      }
+     ],
+     "tag": "div"
+    },
+    {
+     "cls": "relative flex flex-col lg:flex-row lg:items-start gap-8 lg:gap-12",
+     "kids": [
+      {
+       "cls": "w-full lg:w-1/2 flex justify-center lg:justify-start",
+       "kids": [
+        {
+         "cls": "mx-auto relative flex w-full max-w-[560px] aspect-video overflow-hidden rounded-3xl",
+         "kids": [
+          {
+           "cls": "absolute inset-0 w-full h-full object-cover transition-opacity duration-300 ease-in-out opacity-100 z-10",
+           "kids": [],
+           "tag": "img"
+          },
+          {
+           "cls": "absolute inset-0 w-full h-full object-cover transition-opacity duration-300 ease-in-out opacity-0 z-0",
+           "kids": [],
+           "tag": "img"
+          },
+          {
+           "cls": "absolute inset-0 w-full h-full object-cover transition-opacity duration-300 ease-in-out opacity-0 z-0",
+           "kids": [],
+           "tag": "img"
+          }
+         ],
+         "tag": "div"
+        }
+       ],
+       "tag": "div"
+      },
+      {
+       "cls": "w-full lg:w-1/2 flex flex-col gap-4 auto-size-how-to-use__text lg:h-[420px] overflow-hidden",
+       "kids": [
+        {
+         "cls": "flex flex-col relative shrink-0 gap-2 flex-1 min-h-0 overflow-hidden auto-size-how-to-use__hover-steps",
+         "kids": [
+          {
+           "cls": "expanded step-card cursor-pointer rounded-xl transition-all duration-300 ease-in-out group",
+           "kids": [],
+           "tag": "div"
+          },
+          {
+           "cls": "collapsed step-card cursor-pointer rounded-xl transition-all duration-300 ease-in-out group",
+           "kids": [],
+           "tag": "div"
+          },
+          {
+           "cls": "collapsed step-card cursor-pointer rounded-xl transition-all duration-300 ease-in-out group",
+           "kids": [],
+           "tag": "div"
+          }
+         ],
+         "tag": "div"
+        }
+       ],
+       "tag": "div"
+      }
+     ],
+     "tag": "div"
+    }
+   ],
+   "tag": "section"
+  },
+  {
+   "cls": "relative overflow-hidden",
+   "kids": [
+    {
+     "cls": "relative mx-auto w-full max-w-[1200px] px-4",
+     "kids": [
+      {
+       "cls": "text-center",
+       "kids": [
+        {
+         "cls": "gradient-text",
+         "kids": [],
+         "tag": "h2",
+         "text": "在日常场景中使用视频压缩器"
+        },
+        {
+         "cls": "vic-desc mt-3",
+         "kids": [],
+         "tag": "p",
+         "text": "让视频在日常工作中更易于分享、存储和管理。"
+        }
+       ],
+       "tag": "div"
+      },
+      {
+       "cls": "mt-10 grid gap-6 md:mt-14 md:gap-8",
+       "kids": [
+        {
+         "cls": "grid items-center gap-7 overflow-hidden rounded-[28px] border border-[#d8e6fb] bg-white p-5 shadow-[0_20px_60px_-38px_rgba(50,145,255,0.55)] transition-transform duration-300 hover:-translate-y-0.5 md:p-7 lg:grid-cols-[1",
+         "kids": [
+          {
+           "kids": [],
+           "tag": "div"
+          },
+          {
+           "kids": [],
+           "tag": "div"
+          }
+         ],
+         "tag": "article"
+        },
+        {
+         "cls": "lg:grid-cols-[0.95fr_1.05fr] grid items-center gap-7 overflow-hidden rounded-[28px] border border-[#d8e6fb] bg-white p-5 shadow-[0_20px_60px_-38px_rgba(50,145,255,0.55)] transition-transform duration-300 hover:-translate",
+         "kids": [
+          {
+           "cls": "lg:order-2",
+           "kids": [],
+           "tag": "div"
+          },
+          {
+           "cls": "lg:order-1",
+           "kids": [],
+           "tag": "div"
+          }
+         ],
+         "tag": "article"
+        },
+        {
+         "cls": "grid items-center gap-7 overflow-hidden rounded-[28px] border border-[#d8e6fb] bg-white p-5 shadow-[0_20px_60px_-38px_rgba(50,145,255,0.55)] transition-transform duration-300 hover:-translate-y-0.5 md:p-7 lg:grid-cols-[1",
+         "kids": [
+          {
+           "kids": [],
+           "tag": "div"
+          },
+          {
+           "kids": [],
+           "tag": "div"
+          }
+         ],
+         "tag": "article"
+        }
+       ],
+       "tag": "div"
+      }
+     ],
+     "tag": "div"
+    }
+   ],
+   "tag": "section"
+  },
+  {
+   "cls": "relative h-full mx-auto",
+   "kids": [
+    {
+     "cls": "relative z-10 px-10 max-w-7xl mx-auto",
+     "kids": [
+      {
+       "cls": "gradient-text text-center",
+       "kids": [],
+       "tag": "h2",
+       "text": "用户评价"
+      },
+      {
+       "cls": "mt-4 max-w-3xl mx-auto text-center vic-desc",
+       "kids": [],
+       "tag": "p",
+       "text": "从超大的 4K 文件到日常社媒内容，用户都信赖 VideoCompress，快速又轻松地完成视频压缩。"
+      },
+      {
+       "cls": "mt-12",
+       "kids": [
+        {
+         "cls": "grid grid-cols-1 md:grid-cols-2 gap-6",
+         "kids": [
+          {
+           "cls": "mb-4 flex w-full break-inside-avoid flex-col items-center justify-between gap-6 rounded-xl p-4 border border-neutral-200 bg-white dark:bg-black dark:[border:1px_solid_rgba(255,255,255,.1)] dark:[box-shadow:0_-20px_80px_-",
+           "kids": [],
+           "tag": "div"
+          },
+          {
+           "cls": "mb-4 flex w-full break-inside-avoid flex-col items-center justify-between gap-6 rounded-xl p-4 border border-neutral-200 bg-white dark:bg-black dark:[border:1px_solid_rgba(255,255,255,.1)] dark:[box-shadow:0_-20px_80px_-",
+           "kids": [],
+           "tag": "div"
+          },
+          {
+           "cls": "mb-4 flex w-full break-inside-avoid flex-col items-center justify-between gap-6 rounded-xl p-4 border border-neutral-200 bg-white dark:bg-black dark:[border:1px_solid_rgba(255,255,255,.1)] dark:[box-shadow:0_-20px_80px_-",
+           "kids": [],
+           "tag": "div"
+          },
+          {
+           "cls": "mb-4 flex w-full break-inside-avoid flex-col items-center justify-between gap-6 rounded-xl p-4 border border-neutral-200 bg-white dark:bg-black dark:[border:1px_solid_rgba(255,255,255,.1)] dark:[box-shadow:0_-20px_80px_-",
+           "kids": [],
+           "tag": "div"
+          },
+          {
+           "cls": "mb-4 flex w-full break-inside-avoid flex-col items-center justify-between gap-6 rounded-xl p-4 border border-neutral-200 bg-white dark:bg-black dark:[border:1px_solid_rgba(255,255,255,.1)] dark:[box-shadow:0_-20px_80px_-",
+           "kids": [],
+           "tag": "div"
+          },
+          {
+           "cls": "mb-4 flex w-full break-inside-avoid flex-col items-center justify-between gap-6 rounded-xl p-4 border border-neutral-200 bg-white dark:bg-black dark:[border:1px_solid_rgba(255,255,255,.1)] dark:[box-shadow:0_-20px_80px_-",
+           "kids": [],
+           "tag": "div"
+          },
+          {
+           "cls": "mb-4 flex w-full break-inside-avoid flex-col items-center justify-between gap-6 rounded-xl p-4 border border-neutral-200 bg-white dark:bg-black dark:[border:1px_solid_rgba(255,255,255,.1)] dark:[box-shadow:0_-20px_80px_-",
+           "kids": [],
+           "tag": "div"
+          },
+          {
+           "cls": "mb-4 flex w-full break-inside-avoid flex-col items-center justify-between gap-6 rounded-xl p-4 border border-neutral-200 bg-white dark:bg-black dark:[border:1px_solid_rgba(255,255,255,.1)] dark:[box-shadow:0_-20px_80px_-",
+           "kids": [],
+           "tag": "div"
+          }
+         ],
+         "tag": "div"
+        }
+       ],
+       "tag": "div"
+      }
+     ],
+     "tag": "div"
+    }
+   ],
+   "tag": "section"
+  },
+  {
+   "cls": "video-reduce-container",
+   "kids": [
+    {
+     "cls": "video-section",
+     "kids": [
+      {
+       "cls": "gradient-text",
+       "kids": [],
+       "tag": "h2",
+       "text": "轻松压缩视频"
+      },
+      {
+       "cls": "mt-4 vic-desc",
+       "kids": [],
+       "tag": "p",
+       "text": "只需几个步骤，就能把大视频文件变成更小、更实用的文件。"
+      },
+      {
+       "cls": "video-wrapper mt-10",
+       "kids": [
+        {
+         "cls": "video-container",
+         "kids": [
+          {
+           "cls": "video-element",
+           "kids": [],
+           "tag": "video"
+          }
+         ],
+         "tag": "div"
+        },
+        {
+         "cls": "video-container",
+         "kids": [
+          {
+           "cls": "video-element",
+           "kids": [],
+           "tag": "video"
+          }
+         ],
+         "tag": "div"
+        },
+        {
+         "cls": "video-container",
+         "kids": [
+          {
+           "cls": "video-element",
+           "kids": [],
+           "tag": "video"
+          }
+         ],
+         "tag": "div"
+        },
+        {
+         "cls": "video-container",
+         "kids": [
+          {
+           "cls": "video-element",
+           "kids": [],
+           "tag": "video"
+          }
+         ],
+         "tag": "div"
+        },
+        {
+         "cls": "compression-options",
+         "kids": [
+          {
+           "cls": "option-btn",
+           "kids": [],
+           "tag": "button"
+          },
+          {
+           "cls": "option-btn",
+           "kids": [],
+           "tag": "button"
+          },
+          {
+           "cls": "option-btn",
+           "kids": [],
+           "tag": "button"
+          },
+          {
+           "cls": "option-btn active",
+           "kids": [],
+           "tag": "button"
+          }
+         ],
+         "tag": "div"
+        }
+       ],
+       "tag": "div"
+      }
+     ],
+     "tag": "div"
+    }
+   ],
+   "tag": "div"
+  },
+  {
+   "kids": [
+    {
+     "cls": "mx-auto flex max-w-4xl flex-col items-center justify-center gap-y-5 rounded-2xl border border-slate-500/20 bg-neutral-50 p-10 shadow-inner dark:bg-neutral-900",
+     "kids": [
+      {
+       "kids": [],
+       "tag": "h2",
+       "text": "立即开始压缩你的视频"
+      },
+      {
+       "cls": "text-xl text-gray-600 mb-8 max-w-2xl mx-auto",
+       "kids": [],
+       "tag": "p",
+       "text": "VideoCompress 已获得超过 200,000 名用户信赖，我们的在线视频压缩器可帮助你更轻松地分享、存储和管理大视频。无水印，无复杂步骤，只需快速简单"
+      },
+      {
+       "cls": "shadow-small flex h-10 w-60 items-center justify-center gap-2.5 rounded-full border border-neutral-300/30 font-medium text-white shadow-[4px_4px_0_0_rgba(50,145,255,1)] transition-all duration-150 active:translate-x-[2px",
+       "kids": [],
+       "tag": "a",
+       "text": "立即压缩视频"
+      }
+     ],
+     "tag": "div"
+    }
+   ],
+   "tag": "section"
+  },
+  {
+   "cls": "container mx-auto px-4 max-w-[1200px] flex flex-col gap-4 text-center",
+   "kids": [
+    {
+     "cls": "gradient-text text-2xl md:text-4xl font-bold leading-[1.18]",
+     "kids": [],
+     "tag": "h2",
+     "text": "VideoCompress 常见问题"
+    },
+    {
+     "cls": "vic-desc",
+     "kids": [],
+     "tag": "p",
+     "text": "这里汇总了你在 VideoCompress 上进行在线视频压缩时需要了解的一切：快速、简单、并保持高质量。"
+    },
+    {
+     "cls": "mx-auto my-6 md:w-[700px] auto-size-max-960",
+     "kids": [
+      {
+       "cls": "flex w-full flex-col items-center justify-center space-y-2",
+       "kids": [
+        {
+         "cls": "w-full border rounded-lg overflow-hidden transition-colors duration-200 data-[state=open]:border-primary data-[state=open]:bg-primary-50 shadow-sm",
+         "kids": [
+          {
+           "cls": "flex",
+           "kids": [],
+           "tag": "h3"
+          },
+          {
+           "cls": "overflow-hidden text-sm data-[state=closed]:animate-accordion-up data-[state=open]:animate-accordion-down",
+           "kids": [],
+           "tag": "div"
+          }
+         ],
+         "tag": "div"
+        },
+        {
+         "cls": "w-full border rounded-lg overflow-hidden transition-colors duration-200 data-[state=open]:border-primary data-[state=open]:bg-primary-50 shadow-sm",
+         "kids": [
+          {
+           "cls": "flex",
+           "kids": [],
+           "tag": "h3"
+          },
+          {
+           "cls": "overflow-hidden text-sm data-[state=closed]:animate-accordion-up data-[state=open]:animate-accordion-down",
+           "kids": [],
+           "tag": "div"
+          }
+         ],
+         "tag": "div"
+        },
+        {
+         "cls": "w-full border rounded-lg overflow-hidden transition-colors duration-200 data-[state=open]:border-primary data-[state=open]:bg-primary-50 shadow-sm",
+         "kids": [
+          {
+           "cls": "flex",
+           "kids": [],
+           "tag": "h3"
+          },
+          {
+           "cls": "overflow-hidden text-sm data-[state=closed]:animate-accordion-up data-[state=open]:animate-accordion-down",
+           "kids": [],
+           "tag": "div"
+          }
+         ],
+         "tag": "div"
+        },
+        {
+         "cls": "w-full border rounded-lg overflow-hidden transition-colors duration-200 data-[state=open]:border-primary data-[state=open]:bg-primary-50 shadow-sm",
+         "kids": [
+          {
+           "cls": "flex",
+           "kids": [],
+           "tag": "h3"
+          },
+          {
+           "cls": "overflow-hidden text-sm data-[state=closed]:animate-accordion-up data-[state=open]:animate-accordion-down",
+           "kids": [],
+           "tag": "div"
+          }
+         ],
+         "tag": "div"
+        },
+        {
+         "cls": "w-full border rounded-lg overflow-hidden transition-colors duration-200 data-[state=open]:border-primary data-[state=open]:bg-primary-50 shadow-sm",
+         "kids": [
+          {
+           "cls": "flex",
+           "kids": [],
+           "tag": "h3"
+          },
+          {
+           "cls": "overflow-hidden text-sm data-[state=closed]:animate-accordion-up data-[state=open]:animate-accordion-down",
+           "kids": [],
+           "tag": "div"
+          }
+         ],
+         "tag": "div"
+        },
+        {
+         "cls": "w-full border rounded-lg overflow-hidden transition-colors duration-200 data-[state=open]:border-primary data-[state=open]:bg-primary-50 shadow-sm",
+         "kids": [
+          {
+           "cls": "flex",
+           "kids": [],
+           "tag": "h3"
+          },
+          {
+           "cls": "overflow-hidden text-sm data-[state=closed]:animate-accordion-up data-[state=open]:animate-accordion-down",
+           "kids": [],
+           "tag": "div"
+          }
+         ],
+         "tag": "div"
+        },
+        {
+         "cls": "w-full border rounded-lg overflow-hidden transition-colors duration-200 data-[state=open]:border-primary data-[state=open]:bg-primary-50 shadow-sm",
+         "kids": [
+          {
+           "cls": "flex",
+           "kids": [],
+           "tag": "h3"
+          },
+          {
+           "cls": "overflow-hidden text-sm data-[state=closed]:animate-accordion-up data-[state=open]:animate-accordion-down",
+           "kids": [],
+           "tag": "div"
+          }
+         ],
+         "tag": "div"
+        },
+        {
+         "cls": "w-full border rounded-lg overflow-hidden transition-colors duration-200 data-[state=open]:border-primary data-[state=open]:bg-primary-50 shadow-sm",
+         "kids": [
+          {
+           "cls": "flex",
+           "kids": [],
+           "tag": "h3"
+          },
+          {
+           "cls": "overflow-hidden text-sm data-[state=closed]:animate-accordion-up data-[state=open]:animate-accordion-down",
+           "kids": [],
+           "tag": "div"
+          }
+         ],
+         "tag": "div"
+        },
+        {
+         "cls": "w-full border rounded-lg overflow-hidden transition-colors duration-200 data-[state=open]:border-primary data-[state=open]:bg-primary-50 shadow-sm",
+         "kids": [
+          {
+           "cls": "flex",
+           "kids": [],
+           "tag": "h3"
+          },
+          {
+           "cls": "overflow-hidden text-sm data-[state=closed]:animate-accordion-up data-[state=open]:animate-accordion-down",
+           "kids": [],
+           "tag": "div"
+          }
+         ],
+         "tag": "div"
+        }
+       ],
+       "tag": "div"
+      }
+     ],
+     "tag": "div"
+    }
+   ],
+   "tag": "section"
+  }
+ ],
+ "tag": "div"
+}

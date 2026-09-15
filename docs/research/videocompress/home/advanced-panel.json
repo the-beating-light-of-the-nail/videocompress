@@ -1,0 +1,312 @@
+{
+ "ok": true,
+ "panel": {
+  "cls": "ring-offset-background focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2 mt-0 mi",
+  "kids": [
+   {
+    "cls": "advanced-settings grid grid-cols-2 gap-x-3 gap-y-2.5",
+    "kids": [
+     {
+      "cls": "min-w-0",
+      "kids": [
+       {
+        "cls": "mb-1 flex min-h-5 items-center justify-between gap-1.5",
+        "kids": [
+         {
+          "cls": "text-xs font-semibold leading-4 text-gray-700",
+          "kids": [],
+          "tag": "span",
+          "text": "视频编码"
+         },
+         {
+          "cls": "flex h-6 w-6 shrink-0 items-center justify-center rounded text-gray-400 hover:text-primary focus-visible:outline-none focus-visibl",
+          "kids": [
+           {
+            "cls": "[object SVGAnimatedString]",
+            "kids": [
+             {
+              "cls": "[object SVGAnimatedString]",
+              "kids": [],
+              "tag": "circle"
+             },
+             {
+              "cls": "[object SVGAnimatedString]",
+              "kids": [],
+              "tag": "path"
+             },
+             {
+              "cls": "[object SVGAnimatedString]",
+              "kids": [],
+              "tag": "path"
+             }
+            ],
+            "tag": "svg"
+           }
+          ],
+          "tag": "button"
+         }
+        ],
+        "tag": "div"
+       },
+       {
+        "cls": "flex h-9 items-center justify-between whitespace-nowrap border border-input bg-transparent px-3 py-2 text-sm shadow-sm ring-offset",
+        "kids": [
+         {
+          "kids": [],
+          "tag": "span",
+          "text": "H.264"
+         },
+         {
+          "cls": "[object SVGAnimatedString]",
+          "kids": [
+           {
+            "cls": "[object SVGAnimatedString]",
+            "kids": [],
+            "tag": "path"
+           }
+          ],
+          "tag": "svg"
+         }
+        ],
+        "tag": "button"
+       }
+      ],
+      "tag": "div"
+     },
+     {
+      "cls": "min-w-0",
+      "kids": [
+       {
+        "cls": "mb-1 flex min-h-5 items-center justify-between gap-1.5",
+        "kids": [
+         {
+          "cls": "text-xs font-semibold leading-4 text-gray-700",
+          "kids": [],
+          "tag": "span",
+          "text": "压缩方式"
+         },
+         {
+          "cls": "flex h-6 w-6 shrink-0 items-center justify-center rounded text-gray-400 hover:text-primary focus-visible:outline-none focus-visibl",
+          "kids": [
+           {
+            "cls": "[object SVGAnimatedString]",
+            "kids": [
+             {
+              "cls": "[object SVGAnimatedString]",
+              "kids": [],
+              "tag": "circle"
+             },
+             {
+              "cls": "[object SVGAnimatedString]",
+              "kids": [],
+              "tag": "path"
+             },
+             {
+              "cls": "[object SVGAnimatedString]",
+              "kids": [],
+              "tag": "path"
+             }
+            ],
+            "tag": "svg"
+           }
+          ],
+          "tag": "button"
+         }
+        ],
+        "tag": "div"
+       },
+       {
+        "cls": "flex h-9 items-center justify-between whitespace-nowrap border border-input bg-transparent px-3 py-2 text-sm shadow-sm ring-offset",
+        "kids": [
+         {
+          "kids": [],
+          "tag": "span",
+          "text": "按视频质量"
+         },
+         {
+          "cls": "[object SVGAnimatedString]",
+          "kids": [
+           {
+            "cls": "[object SVGAnimatedString]",
+            "kids": [],
+            "tag": "path"
+           }
+          ],
+          "tag": "svg"
+         }
+        ],
+        "tag": "button"
+       }
+      ],
+      "tag": "div"
+     },
+     {
+      "cls": "min-w-0 col-span-2",
+      "kids": [
+       {
+        "cls": "mb-1 flex min-h-5 items-center justify-between gap-1.5",
+        "kids": [
+         {
+          "cls": "text-xs font-semibold leading-4 text-gray-700",
+          "kids": [],
+          "tag": "span",
+          "text": "选择质量 (CRF)"
+         },
+         {
+          "cls": "flex h-6 w-6 shrink-0 items-center justify-center rounded text-gray-400 hover:text-primary focus-visible:outline-none focus-visibl",
+          "kids": [
+           {
+            "cls": "[object SVGAnimatedString]",
+            "kids": [
+             {
+              "cls": "[object SVGAnimatedString]",
+              "kids": [],
+              "tag": "circle"
+             },
+             {
+              "cls": "[object SVGAnimatedString]",
+              "kids": [],
+              "tag": "path"
+             },
+             {
+              "cls": "[object SVGAnimatedString]",
+              "kids": [],
+              "tag": "path"
+             }
+            ],
+            "tag": "svg"
+           }
+          ],
+          "tag": "button"
+         }
+        ],
+        "tag": "div"
+       },
+       {
+        "cls": "flex h-9 items-center justify-between whitespace-nowrap border border-input bg-transparent px-3 py-2 text-sm shadow-sm ring-offset",
+        "kids": [
+         {
+          "kids": [],
+          "tag": "span",
+          "text": "21 良好质量 - 中等大小（默认）"
+         },
+         {
+          "cls": "[object SVGAnimatedString]",
+          "kids": [
+           {
+            "cls": "[object SVGAnimatedString]",
+            "kids": [],
+            "tag": "path"
+           }
+          ],
+          "tag": "svg"
+         }
+        ],
+        "tag": "button"
+       }
+      ],
+      "tag": "div"
+     },
+     {
+      "cls": "min-w-0 col-span-2",
+      "kids": [
+       {
+        "cls": "mb-1 flex min-h-5 items-center justify-between gap-1.5",
+        "kids": [
+         {
+          "cls": "text-xs font-semibold leading-4 text-gray-700",
+          "kids": [],
+          "tag": "span",
+          "text": "压缩速度"
+         },
+         {
+          "cls": "flex h-6 w-6 shrink-0 items-center justify-center rounded text-gray-400 hover:text-primary focus-visible:outline-none focus-visibl",
+          "kids": [
+           {
+            "cls": "[object SVGAnimatedString]",
+            "kids": [
+             {
+              "cls": "[object SVGAnimatedString]",
+              "kids": [],
+              "tag": "circle"
+             },
+             {
+              "cls": "[object SVGAnimatedString]",
+              "kids": [],
+              "tag": "path"
+             },
+             {
+              "cls": "[object SVGAnimatedString]",
+              "kids": [],
+              "tag": "path"
+             }
+            ],
+            "tag": "svg"
+           }
+          ],
+          "tag": "button"
+         }
+        ],
+        "tag": "div"
+       },
+       {
+        "cls": "flex h-9 items-center justify-between whitespace-nowrap border border-input bg-transparent px-3 py-2 text-sm shadow-sm ring-offset",
+        "kids": [
+         {
+          "kids": [],
+          "tag": "span",
+          "text": "非常快（默认）"
+         },
+         {
+          "cls": "[object SVGAnimatedString]",
+          "kids": [
+           {
+            "cls": "[object SVGAnimatedString]",
+            "kids": [],
+            "tag": "path"
+           }
+          ],
+          "tag": "svg"
+         }
+        ],
+        "tag": "button"
+       }
+      ],
+      "tag": "div"
+     },
+     {
+      "cls": "col-span-2 flex items-start gap-2",
+      "kids": [
+       {
+        "cls": "grid place-content-center peer h-4 w-4 rounded-sm border border-primary shadow focus-visible:outline-none focus-visible:ring-1 foc",
+        "kids": [],
+        "tag": "button"
+       },
+       {
+        "cls": "min-w-0",
+        "kids": [
+         {
+          "cls": "block cursor-pointer text-xs font-semibold leading-4 text-gray-700",
+          "kids": [],
+          "tag": "label",
+          "text": "使视频兼容旧设备？"
+         },
+         {
+          "cls": "mt-0.5 text-[10px] leading-tight text-gray-400",
+          "kids": [],
+          "tag": "p",
+          "text": "仅当您需要在非常老旧的设备上播放视频，或遇到播放问题时使用（会降低压缩率）"
+         }
+        ],
+        "tag": "div"
+       }
+      ],
+      "tag": "div"
+     }
+    ],
+    "tag": "div"
+   }
+  ],
+  "tag": "div"
+ }
+}

@@ -1,0 +1,75 @@
+{
+ "fields": [
+  {
+   "label": "视频编码",
+   "span": false,
+   "value": "H.264"
+  },
+  {
+   "label": "压缩方式",
+   "span": false,
+   "value": "按视频质量"
+  },
+  {
+   "label": "选择质量 (CRF)",
+   "span": true,
+   "value": "21 良好质量 - 中等大小（默认）"
+  },
+  {
+   "label": "压缩速度",
+   "span": true,
+   "value": "非常快（默认）"
+  },
+  {
+   "span": true,
+   "value": ""
+  }
+ ],
+ "headerInfo": {
+  "buttons": [
+   "",
+   "产品",
+   "下载客户端",
+   "登录"
+  ],
+  "links": [
+   {
+    "href": "/zh-CN",
+    "text": "VideoCompress"
+   },
+   {
+    "href": "/zh-CN/pricing",
+    "text": "价格"
+   }
+  ],
+  "logoImg": "https://videocompress.ai/logo.svg",
+  "logoSvg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"20\" height=\"20\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" class=\"lucide lucide-menu-icon lucide-menu\"><path d=\"M4 12h16\"></path><path d=\"M4 18h16\"></path><path d=\"M4 6h16\"></path></svg>"
+ },
+ "imgs": [
+  "https://videocompress.ai/logo.svg",
+  "https://videocompress.ai/image/index/upload-video.png",
+  "https://videocompress.ai/image/logo/YouTube.svg",
+  "https://videocompress.ai/image/logo/Instagram.svg",
+  "https://videocompress.ai/image/logo/Google.svg",
+  "https://videocompress.ai/image/logo/Netflix.svg",
+  "https://videocompress.ai/image/logo/Canva.svg",
+  "https://videocompress.ai/image/logo/Dropbox.svg",
+  "https://videocompress.ai/image/logo/Whatsapp.svg",
+  "https://videocompress.ai/image/logo/Zoom.svg",
+  "https://videocompress.ai/_ipx/q_80/image/index/home-how-to-work-1.webp",
+  "https://videocompress.ai/_ipx/q_80/image/index/home-how-to-work-2.webp",
+  "https://videocompress.ai/_ipx/q_80/image/index/home-how-to-work-3.webp",
+  "https://videocompress.ai/_ipx/q_80/image/index/use-case-1.png",
+  "https://videocompress.ai/_ipx/q_80/image/index/use-case-2.png",
+  "https://videocompress.ai/_ipx/q_80/image/index/use-case-3.png",
+  "https://videocompress.ai/image/avatar/index/avatar-1.jpg",
+  "https://videocompress.ai/image/avatar/index/avatar-2.jpg",
+  "https://videocompress.ai/image/avatar/index/avatar-3.jpg",
+  "https://videocompress.ai/image/avatar/index/avatar-4.jpg",
+  "https://videocompress.ai/image/avatar/index/avatar-5.jpg",
+  "https://videocompress.ai/image/avatar/index/avatar-6.jpg",
+  "https://videocompress.ai/image/avatar/index/avatar-7.jpg",
+  "https://videocompress.ai/image/avatar/index/avatar-8.jpg"
+ ],
+ "uploadIcon": "https://videocompress.ai/image/index/upload-video.png"
+}
