@@ -1,32 +1,38 @@
-# React + TypeScript + Vite
+# VideoCompress · 浏览器本地媒体工具箱
 
-This template provides a minimal setup to get React working in Vite with HMR and some Oxlint rules.
+10 个常用媒体工具，全部在浏览器本地运行，文件不上传到任何服务器。
 
-Currently, two official plugins are available:
+| 工具 | 说明 |
+|---|---|
+| [视频压缩](/)（首页） | 拖动目标大小滑块一键压缩，也可切高级模式调编码器、质量、速度与分辨率 |
+| 视频剪切 | 时间轴上拖动区间，选择保留或删除所选片段，本地重新编码保证剪切精准 |
+| 视频裁切 | 裁掉多余画面区域 |
+| 视频转 MP3 | 从视频中提取音频 |
+| 视频转文字 | 本地识别生成文字稿 |
+| 图片压缩 | JPG / PNG / WebP / GIF 批量处理，透明背景自动选 WebP，可打包 ZIP 下载 |
+| 图片翻译 | 识别图中外文并给出译文 |
+| PDF 压缩 | 三档压缩强度，重采样页面图像，保持页面结构不变 |
+| PDF 翻译 | 整篇 PDF 内容翻译 |
+| 音频剪切 | 像视频剪切一样在时间轴上选区间 |
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## 为什么全部放在浏览器里
 
-## React Compiler
+压缩一个视频往往只需要几分钟，但把它上传到在线工具、排队、再下载回来，花的时间比处理本身还长，文件还要经过别人的服务器。这套工具用 ffmpeg.wasm、pdf-lib 与 pdfjs-dist 在本地完成全部处理——页面关掉，你的文件从头到尾没有离开过这台设备。
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## 技术栈
 
-## Expanding the Oxlint configuration
+- Vite + React 19 + TypeScript
+- `@ffmpeg/ffmpeg`（ffmpeg.wasm）：视频 / 音频处理
+- `pdf-lib` + `pdfjs-dist`：PDF 处理
+- `fflate`：打包 ZIP
 
-If you are developing a production application, we recommend enabling type-aware lint rules by installing `oxlint-tsgolint` and editing `.oxlintrc.json`:
+## 本地开发
 
-```json
-{
-  "$schema": "./node_modules/oxlint/configuration_schema.json",
-  "plugins": ["react", "typescript", "oxc"],
-  "options": {
-    "typeAware": true
-  },
-  "rules": {
-    "react/rules-of-hooks": "error",
-    "react/only-export-components": ["warn", { "allowConstantExport": true }]
-  }
-}
+```bash
+npm install
+npm run dev      # 开发服务器
+npm run build    # 产出静态站点
+npm run preview  # 本地预览构建产物
 ```
 
-See the [Oxlint rules documentation](https://oxc.rs/docs/guide/usage/linter/rules) for the full list of rules and categories.
+纯静态产物，`dist/` 可部署到任何静态托管。
